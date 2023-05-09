@@ -1,0 +1,2 @@
+export  { Bottom } from "./Header";
+

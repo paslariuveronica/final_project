@@ -1,0 +1,56 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.post {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  width: 800px;
+  padding: 15px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  letter-spacing: 3px;
+  word-spacing: 4px;
+  font-size: 30px;
+  font-style: oblique;
+}
+
+.poster {
+  height: 500px;
+}
+
+.content {
+  text-align: justify;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 768px) {
+  .post {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .title {
+    font-size: 25px;
+  }
+
+  .poster {
+    height: 300px;
+  }
+}

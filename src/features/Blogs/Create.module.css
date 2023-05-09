@@ -1,0 +1,71 @@
+
+.zebra-background {
+  background-image: repeating-linear-gradient(45deg, #ffffff, #ffffff 10px, #f0f0f8 10px, #f0f0f0 20px);
+}
+.create {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 750px;
+}
+.write {
+  text-align: center;
+}
+.form {
+  width: 900px;
+  padding: 40px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.title,
+.poster,
+.content {
+  margin-bottom: 20px;
+}
+
+.label {
+  font-size: 15px;
+  color: #333333;
+  margin-bottom: 10px;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  font-size: 15px;
+  color: #444444;
+}
+
+.input:focus {
+  background-color: #ffffff;
+}
+
+.button {
+  margin-top: 20px;
+  width: 100%;
+  padding: 20px;
+  background-color: #69bfe0;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.button:hover {
+  background-color: #05b2f7;
+}
+
+
+@media (max-width: 768px) {
+  .form {
+    
+    width: 100%;
+    padding: 20px;
+  }
+}

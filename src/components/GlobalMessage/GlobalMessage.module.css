@@ -1,0 +1,62 @@
+.message-container {
+  position: fixed;
+  top: 50px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 15px;
+  padding: 30px;
+}
+
+.dialog {
+  display: flex;
+  gap: 20px;
+  max-width: 300px;
+  padding: 15px;
+  margin: 0.1px;
+  border: none;
+  border-radius: 5px;
+}
+
+.dialog svg {
+  position: relative;
+  top: 1px;
+}
+
+.success {
+  background-color: rgb(203, 245, 141);
+  color: rgb(46, 72, 8);
+  border-color: rgb(46, 72, 8);
+  padding: 10px;
+  font-size: 15px;
+  font-style: oblique;
+  font-weight: bold;
+}
+.error {
+  background-color: rgb(255, 180, 180);
+  color: #c00;
+  border-color: #c00;
+  padding: 10px;
+  font-size: 20px;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .message-container {
+    padding: 15px;
+    margin-top: 5px;
+  }
+
+  .dialog {
+    max-width: 100%;
+  }
+
+  .success {
+    font-size: 12px;
+  }
+
+  .error {
+    font-size: 15px;
+  }
+}

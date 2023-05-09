@@ -1,0 +1,101 @@
+.error-message,
+.has-error label {
+  color: rgb(255, 12, 12);
+}
+
+.has-error input {
+  border: 1px solid rgb(189, 0, 0);
+  border-radius: 2px;
+}
+
+.zebra-background {
+  background-image: repeating-linear-gradient(
+    45deg,
+    #ffffff,
+    #ffffff 10px,
+    #f0f0f8 10px,
+    #f0f0f0 20px
+  );
+}
+
+.loginregister-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+}
+
+.form {
+  width: 300px;
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  font-size: 15px;
+  color: #444444;
+}
+
+input:focus {
+  background-color: #ffffff;
+}
+
+.error-message {
+  color: #ff0000;
+  margin-top: 5px;
+}
+
+.button {
+  width: 100%;
+  padding: 15px;
+  background-color: #69bfe0;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #05b2f7;
+}
+
+.link {
+  text-transform: none;
+  font-size: medium;
+  color: black;
+}
+
+@media (max-width: 768px) {
+  .form {
+    width: 100%;
+    padding: 20px;
+  }
+
+  .title {
+    margin-bottom: 15px;
+    padding: 10px;
+  }
+
+  .input {
+    padding: 8px;
+  }
+
+  .button {
+    padding: 12px;
+  }
+}

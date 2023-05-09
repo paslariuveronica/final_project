@@ -1,0 +1,16 @@
+.icon a {
+    margin: 0 10px;
+  }
+
+  .socialmedia {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+   
+  }
+ .title {
+  color:white;
+  font-weight: bolder;
+ }

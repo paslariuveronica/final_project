@@ -1,0 +1,157 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "awd@awdaw.com",
+      "password": "$2a$10$tjonIHctAZc1kX8eSHZPdONMYBOf7po.N1CUX.XqxrC8KrSZ9NWUa",
+      "fName": "qweqwe",
+      "lName": "qweqwe"
+    },
+    {
+      "email": "a@a.com",
+      "password": "$2a$10$ovaB23SpWzT6dODMHF/LoOCl.R61COXrDq4abFs5tcRfiJRAcoAnG",
+      "fName": "Ana",
+      "lName": "Ana",
+      "id": 2,
+      "firstName": "Ioana",
+      "lastName": "Ioana",
+      "newPassword": "parola",
+      "gender": "female",
+      "phoneNumber": "34655476",
+      "dateOfBirth": "1999-12-05"
+    },
+    {
+      "email": "b@b.com",
+      "password": "$2a$10$gyrVZldgpQypc3dara/u7u13m7UhKjuY5PlL458rZYvC3YmMQm/m.",
+      "fName": "ana",
+      "lName": "ana",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "title": " Spring into Style: Top Fashion Trends for 2023",
+      "content": "As the flowers bloom and the weather warms up, it's time to shed our winter layers and embrace the fresh and vibrant fashion trends of spring 2023. \n\n Sustainable Fashion: \nIn recent years, sustainability has become a major focus in the fashion industry, and it's no different in spring 2023. Expect to see more eco-friendly and ethical fashion choices, including organic fabrics, recycled materials, and upcycled garments. From sustainable denim to ethically-made accessories, you can now look stylish while also making a positive impact on the planet. \n\n Vibrant Colors:\nSay goodbye to the muted tones of winter and hello to bright and bold colors this spring. From sunny yellows and fiery reds to electric blues and vivid pinks, expect to see eye-catching hues dominating the fashion scene. Mix and match different colors for a fun and playful look, or make a statement with a monochromatic outfit in a striking color.\n\nFloral Prints:\nFlorals are a perennial favorite for spring, and this year is no exception. From ditsy florals to oversized blooms, floral prints in various colors and styles will be everywhere in 2023. Look for floral dresses, skirts, and blouses for a feminine and romantic look. You can also experiment with floral accessories like scarves or handbags to add a touch of floral flair to any outfit.\n\nSheer Fabrics:\nSheer fabrics will be a hot trend for spring 2023, adding a touch of sensuality and femininity to your wardrobe. Look for sheer blouses, dresses, and skirts in light and airy fabrics like chiffon or organza. Pair them with solid-colored garments for a sophisticated yet sexy look, or layer them over a bralette or a camisole for a more daring style.\n\nStatement Sleeves:\nSleeves are taking center stage this spring, with dramatic and statement-making designs. Look for puffed sleeves, bishop sleeves, and bell sleeves that add volume and drama to your outfit. Whether it's a blouse, a dress, or a jacket, bold sleeves can instantly elevate your look and make a fashion statement.\n\nWide-Leg Pants:\nSay goodbye to skinny jeans and embrace wide-leg pants for a chic and comfortable look this spring. Look for trousers or jeans with a relaxed fit and a wide leg that elongates your silhouette and adds a touch of sophistication to your style. Pair them with a tucked-in blouse or a cropped top for a modern and fashion-forward look.\n\nMinimalist Accessories:\nIn contrast to the bold and vibrant clothing trends, accessories in spring 2023 are going minimalistic. Look for sleek and simple designs in jewelry, handbags, and footwear. Thin gold chains, minimalist hoop earrings, and clean-lined handbags will be popular choices. Opt for neutral colors like white, beige, or black for versatile and timeless pieces that can easily complement any outfit. Happy styling!!!",
+      "poster": "https://media.glamourmagazine.co.uk/photos/61f01471a433715672c3968a/16:9/w_2580,c_limit/SUMMERTRENDS_250122__.jpg",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "How to Style the Perfect Outfit for Any Occasion",
+      "poster": "https://cdn.mos.cms.futurecdn.net/nVX7GjsPw37tCbaroXQr5k.jpg",
+      "content": "Whether you're dressing up for a special event or just heading out for a casual day, it can be tough to know what to wear. In this post, I'll be sharing my tips for creating the perfect outfit for any occasion.\n\n1. Dressing Up for a Special Event:\nFor a special event like a wedding or a cocktail party, it's important to dress to impress. Opt for a stylish and elegant outfit that suits the dress code of the event. A classic little black dress, a tailored suit, or a chic evening gown are great options. Don't forget to accessorize with statement jewelry, a clutch, and heels to complete your sophisticated look.\n\n2. Going for a Casual Day Out:\nFor a casual day out, comfort and style go hand in hand. Choose a relaxed yet fashionable outfit that suits your personal style. A pair of well-fitting jeans or leggings, a comfortable top or sweater, and a pair of trendy sneakers or ankle boots are perfect for a casual and chic look. You can also add accessories like a scarf, a hat, or a crossbody bag to elevate your outfit.\n\n3. Business or Work Attire:\nIf you're heading to a business meeting or a work-related event, it's important to dress professionally. Opt for tailored separates like a blazer, trousers or a pencil skirt, and a crisp blouse or a button-up shirt. Choose neutral colors like black, navy, gray, or white for a polished and sophisticated look. Finish off with closed-toe pumps or loafers, and minimalistic accessories like a watch or a structured handbag.\n\n4. Dressing for a Casual Outdoor Activity:\nIf you're planning to spend time outdoors, like going for a picnic, a hike, or a beach day, choose comfortable and weather-appropriate clothing. Opt for lightweight and breathable fabrics like cotton or linen, and choose loose-fitting and easy-to-move-in garments like a sundress, shorts, or a swimsuit. Don't forget to bring a hat, sunglasses, sunscreen, and other necessary accessories to protect yourself from the sun.\n\n5. Dressing for a Date Night:\nFor a date night, you want to look effortlessly stylish and romantic. Choose a flattering and feminine outfit that makes you feel confident and comfortable. A floral dress, a flowy blouse with jeans, or a cute skirt with a blouse are great options. Opt for soft and romantic colors like pastels or blush tones, and add delicate jewelry, heels or sandals, and a clutch to complete your date-night look.\n\nRemember, the key to styling the perfect outfit for any occasion is to feel confident and comfortable in what you're wearing. Consider the dress code, weather, and your personal style, and don't be afraid to experiment with different combinations to find what works best for you. Happy styling!"
+    },
+    {
+      "id": 3,
+      "title": "The Best Shoes for Spring 2023",
+      "poster": "https://assets.vogue.com/photos/615223e793f82da45f22ca7a/master/w_2560%2Cc_limit/00_story.jpg",
+      "content": "Spring is in the air, and that means it's time to update your shoe collection! In this post, I'll be sharing my favorite styles for the season, from chic sandals to comfortable sneakers.\n\n1. Chic Sandals:\nAs the weather warms up, it's time to break out the sandals! Look for chic and stylish sandals that are perfect for both casual and dressier occasions. Opt for strappy sandals with metallic accents, colorful embellishments, or trendy animal prints. Flat or heeled, sandals are versatile and can be paired with dresses, skirts, shorts, or jeans for a fashionable and comfortable look.\n\n2. Classic White Sneakers:\nWhite sneakers are a must-have for any season, and they are especially perfect for spring! They are comfortable, versatile, and can be worn with almost anything in your wardrobe. Pair them with jeans, leggings, skirts, or dresses for a sporty and casual vibe. Look for styles with clean lines, minimalistic designs, and quality materials for a timeless and chic look.\n\n3. Pastel-colored Shoes:\nSpring is all about soft and fresh colors, and pastels are perfect for this season. Look for shoes in pastel shades like light pink, baby blue, mint green, or lavender. Whether it's sandals, sneakers, flats, or pumps, pastel-colored shoes add a touch of femininity and playfulness to your spring wardrobe. They can be paired with neutral or contrasting colors to create a fashion-forward and eye-catching look.\n\n4. Espadrilles:\nEspadrilles are a classic and timeless footwear option for spring and summer. They come in various styles, including slip-ons, wedges, and lace-ups, and are made with natural materials like canvas and jute for a rustic and beachy vibe. Espadrilles are comfortable and versatile, perfect for pairing with sundresses, shorts, or cropped jeans for a laid-back and boho-chic look.\n\n5. Block Heel Sandals:\nIf you want to elevate your spring footwear game, consider block heel sandals. They provide a stylish and stable option for dressier occasions or when you want to add some height without sacrificing comfort. Look for block heel sandals with interesting designs like cut-outs, braids, or texture for added visual interest. They can be paired with dresses, skirts, or wide-leg pants for a chic and sophisticated look.\n\n6. Mules:\nMules are back in trend, and they are perfect for spring. They are easy to slip on and off, and they come in various styles, including flat, heeled, open-toe, or closed-toe. Look for mules in soft leather, suede, or fabric materials with interesting details like bows, knots, or metallic accents. They are versatile and can be worn with jeans, skirts, or dresses for a trendy and effortless look.\n\n7. Rain Boots:\nSpring showers are inevitable, so it's essential to have a pair of stylish and functional rain boots in your shoe collection. Look for rain boots with fun patterns, bold colors, or sleek designs that will keep your feet dry and stylish in wet weather. They can be paired with jeans, leggings, or skirts for a practical and fashionable look."
+    },
+    {
+      "id": 4,
+      "title": "Top jewelry Trends for 2023",
+      "poster": "https://assets.vogue.com/photos/634885b0996ebc04812e249a/master/w_2560%2Cc_limit/00-story%2520(9).jpg",
+      "content": "As we step into 2023, jewelry trends are evolving with fresh and exciting styles to elevate your fashion game. From statement pieces to minimalistic designs, here are the top jewelry trends to watch out for in 2023:\n\n1. Statement Earrings:\nGet ready to make a statement with bold and oversized earrings in unique shapes, vibrant colors, and intricate designs. From shoulder-grazing chandeliers to geometric danglers, statement earrings are set to dominate in 2023, adding drama and flair to your look.\n\n2. Layered Necklaces:\nLayering necklaces is a continuing trend in 2023, allowing you to create a personalized and trendy look. Mix and match different lengths and styles of necklaces, such as delicate chains with pendants, beads, or charms, to achieve a boho-chic or minimalist vibe.\n\n3. Chunky Rings:\nChunky rings are making a statement in 2023, with oversized rings adorned with bold gemstones, unique textures, and intricate metalwork. From cocktail rings to signet rings, chunky rings are a stylish way to add a focal point to your hands and make a fashion-forward statement.\n\n4. Pearl Jewelry:\nPearls are a timeless and elegant choice for jewelry, and they are making a comeback in 2023 with modern and updated designs. Look for pearl-encrusted cuffs, pearl drop earrings, or layered pearl necklaces to add a touch of sophistication and femininity to any outfit.\n\n5. Mixed Metals:\nMixed metal jewelry continues to be a popular trend in 2023, allowing you to combine different metals like gold, silver, rose gold, and brass to add depth and interest to your jewelry collection. Look for mixed metal jewelry with unique designs, such as interlocking rings, layered bangles, or two-tone earrings for a trendy and modern look.\n\n6. Body Jewelry:\nBody jewelry is a unique and daring trend that is gaining popularity in 2023. From belly chains to shoulder dusters, body jewelry adds a playful and eye-catching element to your look. Look for body jewelry in interesting shapes, materials, and placements to create a bold and avant-garde statement.\n\n7. Sustainable Jewelry:\nSustainability is a growing trend in the fashion industry, and it's no different for jewelry. Look for jewelry made from recycled or upcycled materials, ethically sourced gemstones, and eco-friendly metals in 2023. Sustainable jewelry not only looks good but also makes a positive impact on the environment and society.\n\n8. Minimalist Jewelry:\nFor those who prefer a clean and simple aesthetic, minimalist jewelry continues to be a popular trend in 2023. Look for dainty necklaces, thin stackable rings, and simple stud earrings in high-quality materials like gold or sterling silver. Minimalist jewelry is versatile and can be worn on its own for a subtle look or layered for a more personalized style.\n\n9. Hoop Earrings:\nHoop earrings are a classic jewelry staple that never goes out of style. In 2023, look for modern and updated designs of hoop earrings, such as oversized hoops, textured hoops, or embellished hoops. Hoop earrings are versatile and can be worn with casual or formal outfits, making them a timeless and versatile choice.\n\n"
+    },
+    {
+      "id": 5,
+      "title": "Top Hairstyle Trends for 2023",
+      "poster": "https://media.allure.com/photos/6372677e0a66cccf3a226410/3:2/w_2571,h_1714,c_limit/2023%20haircut%20trends.png",
+      "content": "Your hair is your ultimate fashion accessory, and in 2023, there are plenty of exciting hairstyle trends to try. From short and sassy to long and luscious, here are the top hairstyle trends for 2023 that are set to make heads turn:\n\n1. Blunt Bob:\nThe blunt bob is a chic and modern hairstyle trend for 2023. This haircut features a sharp, straight-edge bob that sits just above the shoulders, creating a clean and sophisticated look. It's perfect for those who want a bold and confident hairstyle that exudes style and elegance.\n\n2. Textured Pixie:\nThe textured pixie is a short and sassy hairstyle trend for 2023. This haircut features layers and texture, giving the hair a tousled and edgy look. It's perfect for those who want a low-maintenance yet fashionable hairstyle that adds a touch of playfulness and attitude to their overall look.\n\n3. Braids and Twists:\nBraids and twists are versatile and timeless hairstyle trends that are here to stay in 2023. From classic French braids to trendy fishtail braids and twisted updos, these hairstyles add a touch of elegance and sophistication to any look. They are perfect for those who want a versatile and stylish hairstyle that can be worn for both casual and formal occasions.\n\n4. Long Layers:\nLong layers are a timeless and versatile hairstyle trend that is making a comeback in 2023. This haircut features layers that add movement and dimension to long hair, creating a soft and romantic look. It's perfect for those who want a feminine and elegant hairstyle that is easy to style and maintain.\n\n5. Curtain Bangs:\nCurtain bangs are a trendy and versatile hairstyle trend for 2023. These bangs are long and parted down the middle, framing the face on both sides. They add a touch of softness and face-framing effect to any haircut, making them perfect for those who want a fresh and youthful look.\n\n6. Natural Texture:\nEmbracing natural texture is a big hairstyle trend for 2023. Whether you have curly, wavy, or coily hair, letting your natural texture shine is all the rage. Say goodbye to excessive heat styling and chemical treatments and hello to the beauty of your natural hair. It's perfect for those who want a low-maintenance yet stylish hairstyle that celebrates their natural beauty.\n\n7. Updos and Topknots:\nUpdos and topknots are versatile and elegant hairstyle trends that are making a comeback in 2023. From sleek and polished updos to messy and undone topknots, these hairstyles are perfect for special occasions or when you want to elevate your everyday look. They are perfect for those who want a sophisticated and polished hairstyle that exudes elegance and grace.\n\n8. Hair Accessories:\nHair accessories are a fun and playful hairstyle trend for 2023. From statement hairpins to embellished headbands, hair accessories add a touch of personality and style to any hairstyle. They are perfect for those who want to experiment with different looks and express their individuality through their hair."
+    },
+    {
+      "id": 6,
+      "title": "Best Bags for 2023",
+      "poster": "https://static.wixstatic.com/media/31c62f_cf231dfa81834ec18495918ae9eedd7e~mv2.jpg/v1/fill/w_640,h_260,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/31c62f_cf231dfa81834ec18495918ae9eedd7e~mv2.jpg",
+      "content": "A bag is not just a functional accessory, but also a statement piece that can elevate your outfit and express your personal style. In 2023, there are plenty of exciting bag trends to look out for. From classic designs with modern twists to bold and unconventional styles, here are the best bags for 2023 that are set to make a fashion statement:\n\n1. Mini Tote Bags:\nMini tote bags are a chic and versatile bag trend for 2023. These small-sized totes feature structured shapes and clean lines, making them perfect for both casual and formal occasions. They are ideal for those who want a compact yet stylish bag that can hold all their essentials while adding a touch of sophistication to their look.\n\n2. Statement Clutches:\nStatement clutches are a bold and eye-catching bag trend for 2023. These clutches feature unique shapes, embellishments, and textures that make them stand out in a crowd. They are perfect for special occasions or when you want to make a fashion statement with your accessories. They are ideal for those who want a show-stopping bag that adds a touch of drama and personality to their outfit.\n\n3. Box Bags:\nBox bags are a vintage-inspired bag trend that is making a comeback in 2023. These structured bags feature hard-shell cases with metal frames and closures, creating a sophisticated and timeless look. They are perfect for those who want a classic and elegant bag that adds a touch of nostalgia and vintage charm to their style.\n\n4. Woven Bags:\nWoven bags are a boho-chic bag trend for 2023. These bags feature intricate weaves and textures, giving them a unique and artisanal look. They are perfect for adding a touch of bohemian flair to your outfit and are ideal for those who want a trendy and eco-friendly bag that showcases craftsmanship and sustainability.\n\n5. Belt Bags:\nBelt bags, also known as fanny packs, are a practical and stylish bag trend for 2023. These bags are worn around the waist and offer a hands-free way to carry your essentials. They come in various styles, from sleek and minimalist designs to bold and statement-making pieces. They are perfect for those who want a fashionable and convenient bag for on-the-go activities or when you want to add a sporty and modern touch to your outfit.\n\n6. Oversized Tote Bags:\nOversized tote bags are a functional and fashionable bag trend for 2023. These large-sized totes offer plenty of space for your belongings and are perfect for those who need to carry a lot of items on a daily basis. They come in various materials, from leather to canvas, and can be found in classic and modern designs that offer both style and practicality.\n\n7. Transparent Bags:\nTransparent bags are a modern and edgy bag trend for 2023. These bags are made of clear materials such as PVC or plastic and allow you to show off the contents of your bag while adding a futuristic and unconventional look to your outfit. They are perfect for those who want a unique and attention-grabbing bag that pushes the boundaries of fashion and style."
+    },
+    {
+      "id": 7,
+      "title": "Best Sunglass Trends for 2023",
+      "poster": "https://eye-see-mag.com/wp-content/uploads/2021/09/GUCCI-EYEWEAR-FW21-ADV_SP_300dpi_04_ph.-by-Quil-Lemons_courtesy-of-Gucci-811x360-1.jpg",
+      "content": "Sunglasses not only protect your eyes from harmful UV rays, but they are also a must-have fashion accessory. In 2023, there are several exciting sunglass trends that are set to elevate your style game. From bold frames to unique lens colors, here are the top sunglass trends for 2023 that are worth checking out:\n\n1. Cat-Eye Frames:\nCat-eye frames are a classic sunglass trend that is expected to make a strong comeback in 2023. These frames are characterized by their upswept outer edges, resembling the shape of a cat's eyes. They add a touch of femininity and retro-chic to any outfit, making them a popular choice among fashion-forward individuals.\n\n2. Reflective Lens Colors:\nReflective lens colors are a futuristic sunglass trend that is gaining popularity in 2023. These lenses feature a mirrored coating that reflects light, creating a sleek and modern look. From bold colors like blue and green to more subtle hues like silver and gold, reflective lens colors can add a touch of edginess and style to your sunglasses.\n\n3. Geometric Frames:\nGeometric frames are a unique and avant-garde sunglass trend for 2023. These frames feature unconventional shapes such as hexagon, octagon, and asymmetrical designs, offering a bold and artistic look. They are perfect for those who want to make a fashion statement and stand out from the crowd.\n\n4. Sustainable Materials:\nSustainability is a growing trend in fashion, and sunglasses are no exception. In 2023, there is a rising demand for sunglasses made from eco-friendly materials such as recycled plastic, wood, and bamboo. These sunglasses not only protect your eyes, but they also contribute to a greener and more sustainable fashion industry.\n\n5. Rimless Frames:\nRimless frames are a minimalist and lightweight sunglass trend for 2023. These frames do not have traditional rims, giving them a sleek and understated look. They are perfect for those who prefer a minimalist and clean aesthetic, and they can easily complement any outfit.\n\n6. Colored Frames:\nColored frames are a fun and playful sunglass trend for 2023. These frames come in a wide range of colors, from bold and vibrant hues to soft pastels, allowing you to express your personality and style. Colored frames can add a pop of color to your outfit and make a fashion statement.\n\n7. Sporty Styles:\nSporty styles are a practical and stylish sunglass trend for 2023. These sunglasses are designed for outdoor activities and sports, featuring durable materials, wrap-around frames, and polarized lenses for maximum UV protection. Sporty styles are perfect for those who lead an active lifestyle and want sunglasses that combine fashion with functionality.\n\nIn conclusion, 2023 is expected to bring forth a diverse range of sunglass trends to suit various styles, preferences, and occasions. From cat-eye frames to reflective lens colors, there are plenty of options to choose from to elevate your sunglass game and stay fashionable while protecting your eyes from the sun's rays."
+    },
+    {
+      "id": 8,
+      "title": "Top Makeup Trends for 2023",
+      "poster": "https://hips.hearstapps.com/hmg-prod/images/spring-summer-2023-makeup-trends-1668004181.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=1200:*",
+      "content": "Makeup trends are constantly evolving, and 2023 is no exception. From bold colors to natural looks, there are several exciting makeup trends that are expected to dominate the beauty world in 2023. Here are the top makeup trends to watch out for:\n\n1. Graphic Eyeliner:\nGraphic eyeliner is a bold and artistic trend that is expected to gain popularity in 2023. This trend involves creating bold and unique eyeliner shapes, such as exaggerated wings, geometric lines, and double lines. It's a creative and edgy way to enhance your eyes and make a statement.\n\n2. Dewy Skin:\nDewy skin is a natural and glowing makeup trend that is expected to be a hit in 2023. This trend focuses on achieving a fresh and luminous complexion by using hydrating skincare products, lightweight foundations, and highlighters. Dewy skin gives a healthy and youthful appearance to the skin, and it's perfect for achieving a natural, no-makeup makeup look.\n\n3. Bright and Bold Lips:\nBold lips are always a statement-making makeup trend, and in 2023, bright and bold lip colors are expected to be in the spotlight. From fiery reds to vibrant pinks and oranges, bold lip colors can instantly elevate your makeup look and make a striking impression. It's a trend for those who love to experiment with lip colors and make a bold statement.\n\n4. Glossy Eyeshadow:\nGlossy eyeshadow is a trendy and eye-catching makeup trend for 2023. This trend involves using eyeshadows with a glossy or wet finish to create a high-shine and multidimensional look on the eyelids. Glossy eyeshadows come in a variety of colors and finishes, from metallic to shimmery, and they can add a modern and edgy twist to your eye makeup.\n\n5. Pastel Tones:\nPastel tones are expected to be a popular makeup trend in 2023. Soft and muted pastel colors, such as lavender, mint, and peach, can add a touch of femininity and romance to your makeup look. Pastel tones can be used on the eyes, cheeks, and lips to create a fresh and dreamy makeup look that's perfect for spring and summer.\n\n6. Minimalistic Makeup:\nMinimalistic makeup is a timeless and effortless trend that is expected to continue its popularity in 2023. This trend focuses on enhancing your natural features with minimal makeup, such as tinted moisturizers, light coverage foundations, subtle blushes, and natural-looking brows. It's a trend for those who prefer a more natural and understated makeup look.\n\n7. Glitter and Sparkle:\nGlitter and sparkle are always fun and glamorous makeup trends, and they are expected to shine in 2023. Glittery eyeshadows, shimmery highlighters, and sparkling lip glosses can add a touch of glamour and playfulness to your makeup look. They are perfect for special occasions or when you want to make a bold statement.\n\nIn conclusion, 2023 is expected to bring forth a variety of makeup trends that cater to different styles, preferences, and occasions. From graphic eyeliner to dewy skin, there are plenty of options to experiment with and express your unique sense of style through makeup."
+    }
+  ],
+  "about": [
+    {
+      "id": 1,
+      "title": "About this blog",
+      "poster": "https://monovisions.com/wp-content/uploads/2015/03/1st_Place_Professional_Harnesh_Joshi_Mono_Awards_2014.jpg",
+      "content": " Welcome to our fashion blog! We are dedicated to all things fashion and style. Our goal is to inspire and empower fashion enthusiasts to express their unique sense of style and confidently embrace the latest fashion trends.\n\nFrom fashion tips and styling advice to fashion news and trend reports, our team of fashion-savvy writers curates content that caters to fashion-forward individuals. We cover a wide range of topics, including clothing, accessories, footwear, beauty, and lifestyle, to provide a holistic view of the fashion world.\n\nWhether you're looking for fashion inspiration, practical style advice, or insider tips, you'll find it all here. Join us as we celebrate the art of fashion and embark on a journey of self-expression through personal style.",
+      "contactme": "a@a.com"
+    }
+  ],
+  "photo": [
+    {
+      "id": "p1",
+      "title": "Photo One",
+      "poster": "https://media1.popsugar-assets.com/files/thumbor/lFDqgfRcAb8Oas2XQQTsoaEDRfU/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2022/07/12/795/n/1922564/6b1309434bfa4a95_GettyImages-1404341409/i/Normcore.jpg"
+    },
+    {
+      "id": "p2",
+      "title": "Photo Two",
+      "poster": "https://media1.popsugar-assets.com/files/thumbor/r1yiAGFsTanzFEyc-XvvEO0Tw0o/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2022/07/12/879/n/1922564/e370028d8ace2644_GettyImages-1305054044/i/Grunge.jpg"
+    },
+    {
+      "id": "p3",
+      "title": "Photo Three",
+      "poster": "https://media1.popsugar-assets.com/files/thumbor/Bnd0otGpQ5pEYleukJZKo1mmI50/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2022/07/12/756/n/1922564/d8595e92589d7da2_GettyImages-1388154070/i/Barbiecore.jpg "
+    },
+    {
+      "id": "p4",
+      "title": "Photo Four",
+      "poster": "https://media1.popsugar-assets.com/files/thumbor/eSK-7f27aa1-IZMN56Z_kwXdQx0/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2022/07/12/718/n/1922564/cdb7e2eb0977670d_GettyImages-1400763080/i/Coastal-Grandmother.jpg"
+    },
+    {
+      "id": "p5",
+      "title": "Photo Five",
+      "poster": "https://media1.popsugar-assets.com/files/thumbor/4FhBdwfgKrKa8AxRb43MgpXIKJo/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2022/07/12/888/n/1922564/4a5ba24f2597f812_GettyImages-1384548492/i/Night-Luxe-Aesthetic.jpg"
+    },
+    {
+      "id": "p6",
+      "title": "Photo Six",
+      "poster": "https://media1.popsugar-assets.com/files/thumbor/QTr_WQ6h58mqxcS1-dEBToEwxpM/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2022/07/12/765/n/1922564/e8dbea5a5e192ac5_GettyImages-1390664810/i/Kidcore.jpg"
+    },
+    {
+      "id": "p7",
+      "title": "Photo Seven",
+      "poster": "https://media1.popsugar-assets.com/files/thumbor/QcQdP6dSV2xadIiFc0qJPhcrPC8/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2022/07/12/701/n/1922564/142836a4df61979c_GettyImages-1407461680/i/Soft-Girl.jpg"
+    },
+    {
+      "id": "p8",
+      "title": "Photo Eight",
+      "poster": "https://media1.popsugar-assets.com/files/thumbor/6dCjKRzSIsS7PvGWdDBY6ZxA6nE/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2022/07/12/642/n/1922564/adcfad6f9909ac83_GettyImages-1408174643/i/Pearlcore.jpg"
+    },
+    {
+      "id": "p9",
+      "title": "Photo Nine",
+      "poster": "https://media1.popsugar-assets.com/files/thumbor/8PDCFxbLnfwJwrg_sruZwjyoOBA/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2022/07/12/704/n/1922564/abe679815f66bf71_GettyImages-1407272483/i/Y2K.jpg"
+    },
+    {
+      "id": "p10",
+      "title": "Photo Ten",
+      "poster": "https://media1.popsugar-assets.com/files/thumbor/LB9VIgVvne7lwiUXMnKdLDUPXOs/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2022/07/12/752/n/1922564/70b94bd162cda96a56b281.34031596_GettyImages-/i/Dark-Academia.jpg"
+    },
+    {
+      "id": "p10",
+      "title": "Photo Ten",
+      "poster": "https://media1.popsugar-assets.com/files/thumbor/LB9VIgVvne7lwiUXMnKdLDUPXOs/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2022/07/12/752/n/1922564/70b94bd162cda96a56b281.34031596_GettyImages-/i/Dark-Academia.jpg"
+    },
+    {
+      "id": "p11",
+      "title": "Photo Eleven",
+      "poster": "https://media1.popsugar-assets.com/files/thumbor/XQOcJ-z9aH__jdF-U43F1YED_nI/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2022/07/12/727/n/1922564/efa5257c6208f7f0_GettyImages-1344908201/i/Light-Academia.jpg"
+    },
+    {
+      "id": "p12",
+      "title": "Photo Twelve",
+      "poster": "https://media1.popsugar-assets.com/files/thumbor/0k4bZ8gDVQNYs4PFg1yvpubWw1A/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2022/07/12/807/n/1922564/4bd70a14fa71baf7_GettyImages-1316512027/i/Cottagecore.jpg"
+    }
+  ]
+}
